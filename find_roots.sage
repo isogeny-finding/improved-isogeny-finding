@@ -1,6 +1,6 @@
 import itertools
-load('coron_bivariate.sage')
-load('coron_trivariate.sage')
+load('coron_bivariate_ana.sage')
+load('coron_trivariate_ana.sage')
 load('coron_quadvariate.sage')
 # load('boneh_durfee_trivariate.sage')
 load('bj07_trivariate.sage')
